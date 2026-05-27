@@ -2,6 +2,9 @@
 
 A collection of four independent Python projects focused on fundamental algorithms, data manipulation, mathematical feedback loops, and stochastic simulation. This repository demonstrates clean code practices, logic isolation, and algorithmic efficiency.
 
+<img width="1424" height="747" alt="Gemini_Generated_Image_r9avnsr9avnsr9av" src="https://github.com/user-attachments/assets/7ab12995-559b-4245-b53a-b701a03fd4ef" />
+
+
 ## Projects Overview
 
 ### 1. Crypto (`crypto.py`)
