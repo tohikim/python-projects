@@ -20,7 +20,7 @@ An algorithmic solver built to identify, verify, and generate palindromic string
 A text-based simulation exploring game theory and probability. Users manage a virtual bankroll to bet on the colors of marbles drawn completely at random from a dynamic pool, showcasing risk assessment and random distribution mechanics.
 * **Key Features:** Stochastic modeling (`random` module tracking), state/currency persistence, and risk-reward calculation.
 
----
+
 
 ## Getting Started
 
@@ -43,7 +43,7 @@ Make sure you have Python 3.x installed on your local machine.
    python palindromes.py
    python trading-game.py
    ```
----
+
 
 ## Tech Stack & Concepts Covered
 
